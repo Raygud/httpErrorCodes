@@ -2,9 +2,10 @@
 A comprehensive list of http error codes and what they mean.
 
 
-.1 hello
-.2 world
-.3
-.4 a
-.5
-.6
+## Error Code - Short - Meaning
+
+### 1xx
+1. 100 - Continue - The HTTP 100 Continue informational status response code indicates that everything so far is OK and that the client should continue with the request or ignore it if it is already finished.
+2. 101 -
+3. 102 -
+4. 103 -
